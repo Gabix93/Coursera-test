@@ -11,12 +11,11 @@ h1 {
 }
 
 body {
+  background-image: url(css/Restaurant.jpg);
   background: initial;
   background-repeat: no-repeat;
   background-size: auto;
   background-size: cover;
-  background-image: url(css/Restaurant.jpg);
-  
 
 p {
 	padding: 10px;
